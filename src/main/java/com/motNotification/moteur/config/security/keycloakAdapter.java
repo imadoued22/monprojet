@@ -1,4 +1,4 @@
-package security;
+package com.motNotification.moteur.config.security;
 
 import org.keycloak.adapters.springboot.KeycloakSpringBootConfigResolver;
 import org.springframework.context.annotation.Bean;
